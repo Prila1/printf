@@ -29,3 +29,6 @@ Add support for the flag characters `+`, `space`, and `#` for non-custom convers
 Task 9:
 Handle the length modifiers `l` and `h` for non-custom conversion specifiers (`d`, `i`, `u`, `o`, `x`, `X`).
 
+Task 10:
+Implement handling of the field width for non-custom conversion specifiers.
+
