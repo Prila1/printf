@@ -49,4 +49,3 @@ Implement handling of the custom conversion specifier `%R`, which prints the str
 
 Task 15:
 Ensure that all the above options work together seamlessly, allowing for multiple combinations of format specifiers.
-
