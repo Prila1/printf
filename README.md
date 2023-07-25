@@ -13,3 +13,7 @@ Add support for a custom conversion specifier `%b`, which converts an unsigned i
 
 Task 4:
 Extend `_printf` to handle conversion specifiers `%u`, `%o`, `%x`, and `%X`, which print unsigned integers in decimal, octal, and hexadecimal format (lowercase and uppercase).
+
+Task 5:
+Optimize the `_printf` function by using a local buffer of 1024 characters to minimize the number of calls to `write`.
+
