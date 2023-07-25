@@ -32,3 +32,5 @@ Handle the length modifiers `l` and `h` for non-custom conversion specifiers (`d
 Task 10:
 Implement handling of the field width for non-custom conversion specifiers.
 
+Task 11:
+Handle the precision for non-custom conversion specifiers.
