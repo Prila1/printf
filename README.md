@@ -44,9 +44,9 @@ Implement handling of the `-` flag character for non-custom conversion specifier
 Task 13:
 Handle the custom conversion specifier `%r`, which prints the reversed string.
 
-Task 15:
+Task 14:
 Implement handling of the custom conversion specifier `%R`, which prints the string in ROT13 encoding.
 
-Task 16:
+Task 15:
 Ensure that all the above options work together seamlessly, allowing for multiple combinations of format specifiers.
 
