@@ -26,10 +26,10 @@ Handle the conversion specifier `%p`, which prints pointers in hexadecimal forma
 Task 7:
 Add support for the flag characters `+`, `space`, and `#` for non-custom conversion specifiers.
 
-Task 9:
+Task 8:
 Handle the length modifiers `l` and `h` for non-custom conversion specifiers (`d`, `i`, `u`, `o`, `x`, `X`).
 
-Task 10:
+Task 9:
 Implement handling of the field width for non-custom conversion specifiers.
 
 Task 11:
