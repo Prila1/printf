@@ -23,4 +23,6 @@ Handle the custom conversion specifier `%S`, which prints strings and represents
 Task 7:
 Handle the conversion specifier `%p`, which prints pointers in hexadecimal format.
 
+Task 8:
+Add support for the flag characters `+`, `space`, and `#` for non-custom conversion specifiers.
 
