@@ -1,6 +1,6 @@
 0x11. C - printf
 
-Writing our own printf function, under ALX
+Writing our own printf function, under ALX Low Level
 
 Group project by: Emmanuel Asiedu and Priscilla Yartey.
 
