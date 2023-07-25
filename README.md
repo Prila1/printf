@@ -20,10 +20,10 @@ Optimize the `_printf` function by using a local buffer of 1024 characters to mi
 Task 5:
 Handle the custom conversion specifier `%S`, which prints strings and represents non-printable characters (ASCII value less than 32 or greater than or equal to 127) as `\x` followed by the ASCII code value in hexadecimal (uppercase).
 
-Task 7:
+Task 6:
 Handle the conversion specifier `%p`, which prints pointers in hexadecimal format.
 
-Task 8:
+Task 7:
 Add support for the flag characters `+`, `space`, and `#` for non-custom conversion specifiers.
 
 Task 9:
