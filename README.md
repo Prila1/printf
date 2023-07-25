@@ -2,7 +2,7 @@
 
 Group project by: Emmanuel Asiedu and Priscilla Yartey.
 
-Task 1:
+Task 0:
 Write a function `_printf` that produces output according to a format string. It should handle conversion specifiers `%c`, `%s`, and `%%`.
 
 Task 2:
