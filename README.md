@@ -10,3 +10,6 @@ Extend the `_printf` function to handle conversion specifiers `%d` and `%i`, whi
 
 Task 3:
 Add support for a custom conversion specifier `%b`, which converts an unsigned integer argument to binary.
+
+Task 4:
+Extend `_printf` to handle conversion specifiers `%u`, `%o`, `%x`, and `%X`, which print unsigned integers in decimal, octal, and hexadecimal format (lowercase and uppercase).
