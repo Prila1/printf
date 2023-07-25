@@ -38,10 +38,10 @@ Handle the precision for non-custom conversion specifiers.
 Task 11:
 Add support for the `0` flag character for non-custom conversion specifiers.
 
-Task 13:
+Task 12:
 Implement handling of the `-` flag character for non-custom conversion specifiers.
 
-Task 14:
+Task 13:
 Handle the custom conversion specifier `%r`, which prints the reversed string.
 
 Task 15:
