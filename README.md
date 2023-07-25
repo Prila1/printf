@@ -1,6 +1,6 @@
 0x11. C - printf
 
-Writing
+Writing our own
 
 Group project by: Emmanuel Asiedu and Priscilla Yartey.
 
