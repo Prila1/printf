@@ -1,6 +1,6 @@
 0x11. C - printf
 
-Writing our own
+Writing our own printf function,
 
 Group project by: Emmanuel Asiedu and Priscilla Yartey.
 
