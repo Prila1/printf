@@ -8,10 +8,10 @@ Write a function `_printf` that produces output according to a format string. It
 Task 1:
 Extend the `_printf` function to handle conversion specifiers `%d` and `%i`, which print signed integers.
 
-Task 3:
+Task 2:
 Add support for a custom conversion specifier `%b`, which converts an unsigned integer argument to binary.
 
-Task 4:
+Task 3:
 Extend `_printf` to handle conversion specifiers `%u`, `%o`, `%x`, and `%X`, which print unsigned integers in decimal, octal, and hexadecimal format (lowercase and uppercase).
 
 Task 5:
