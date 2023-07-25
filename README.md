@@ -17,3 +17,7 @@ Extend `_printf` to handle conversion specifiers `%u`, `%o`, `%x`, and `%X`, whi
 Task 5:
 Optimize the `_printf` function by using a local buffer of 1024 characters to minimize the number of calls to `write`.
 
+Task 6:
+Handle the custom conversion specifier `%S`, which prints strings and represents non-printable characters (ASCII value less than 32 or greater than or equal to 127) as `\x` followed by the ASCII code value in hexadecimal (uppercase).
+
+
