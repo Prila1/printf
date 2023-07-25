@@ -47,3 +47,6 @@ Handle the custom conversion specifier `%r`, which prints the reversed string.
 Task 15:
 Implement handling of the custom conversion specifier `%R`, which prints the string in ROT13 encoding.
 
+Task 16:
+Ensure that all the above options work together seamlessly, allowing for multiple combinations of format specifiers.
+
